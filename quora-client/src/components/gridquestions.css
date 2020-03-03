@@ -1,0 +1,43 @@
+.gri1 {
+  padding-left: 50px;
+  width: auto;
+  grid-template-rows: auto;
+  margin-bottom:
+}
+
+
+.cat{
+  font-size: 10px;
+  color: 	silver;
+}
+.quest{
+  height: 40px;
+  width: 450px;
+  }
+
+.ui.segments{
+  width: 450px;
+  height: auto;
+}
+
+.para{
+  padding-left: 30px;
+  position: relative;
+  bottom: 4px;
+  font-size: 12px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/2000px-Red_star.svg.png");
+  background-size: 18px;
+  background-position: center left 05px;
+  background-repeat: no-repeat;
+}
+
+.quest2{
+  position: sticky;
+  margin-top: 0rem
+}
+
+.mash{
+  display:flex;
+  flex-direction:row;
+
+}

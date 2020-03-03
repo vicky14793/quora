@@ -1,0 +1,45 @@
+.gri {
+  padding-top: 26px;
+  padding-left: 80px;
+  width: auto;
+  grid-template-rows: auto;
+
+}
+
+
+.seg1{
+  height: 65px;
+  width: 500px;
+}
+
+
+.username{
+  font-size: 11px;
+  color: lightslategray;
+  background-image: url("https://as2.ftcdn.net/jpg/01/27/07/75/500_F_127077527_3zY29vCGQy4UeyMovBcwF3KiuGTyax3U.jpg");
+  background-color: white;
+  background-size: 25px;
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-left: 27px;
+
+}
+
+.question{
+color: darkgray;
+padding-left: 02px;
+font-weight: bold;
+font-style: oblique;
+font-size: 16px;
+
+
+}
+
+.link2{
+  color: darkgray;
+  padding-left: 02px;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 16px;
+
+}

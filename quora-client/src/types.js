@@ -1,0 +1,4 @@
+export const USER_SIGN_UP = 'USER_SIGN_UP'
+export const USER_SIGN_IN = 'USER_SIGN_IN'
+export const USER_ADD_QUESTION = 'USER_ADD_QUESTION'
+export const USER_FETCH_QUESTION = 'USER_FETCH_QUESTION'

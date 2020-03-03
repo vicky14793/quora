@@ -1,0 +1,17 @@
+body > .grid {
+     height: 100%;
+     padding-top: 50px;
+   }
+   .image {
+     margin-top: -100px;
+   }
+   .column {
+     max-width: 450px;
+   }
+
+
+   .Login-component1 {
+    background: url("QAB.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+   }
